@@ -6,6 +6,7 @@ public class MyTest {
 
         // Внесли изменение №2
         System.out.println("Hello World");
+        // Тут было сообщение №2
 
     }
 
